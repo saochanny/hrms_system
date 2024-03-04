@@ -1,4 +1,4 @@
-package com.chanty.house.cleaning.exception;
+package com.chanty.hrsystem.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,4 +1,4 @@
-package com.chanty.house.cleaning.exception;
+package com.chanty.hrsystem.exception;
 
 import lombok.Data;
 import lombok.RequiredArgsConstructor;

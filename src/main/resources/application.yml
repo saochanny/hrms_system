@@ -23,7 +23,7 @@ spring:
   main:
     allow-bean-definition-overriding: true
   datasource:
-    url: ${DB_URL:jdbc:postgresql://localhost:5432/house_clean}
+    url: ${DB_URL:jdbc:postgresql://localhost:5432/hr_system}
     username: ${DB_USERNAME:admin}
     password: ${DB_PASSWORD:root}
     driver-class-name: org.postgresql.Driver

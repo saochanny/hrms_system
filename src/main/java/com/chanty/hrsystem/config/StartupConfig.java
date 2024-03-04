@@ -1,4 +1,4 @@
-package com.chanty.house.cleaning.config;
+package com.chanty.hrsystem.config;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.CommandLineRunner;
